@@ -21,7 +21,7 @@
     "@chakra-ui/core": "0.7.0",
     "@emotion/core": "10.0.28",
     "@emotion/styled": "10.0.27",
-    "apollo-server-micro": "2.11.0",
+    "apollo-server-micro": "2.14.2",
     "classnames": "2.2.6",
     "core-js": "3.6.4",
     "cross-spawn": "7.0.2",
